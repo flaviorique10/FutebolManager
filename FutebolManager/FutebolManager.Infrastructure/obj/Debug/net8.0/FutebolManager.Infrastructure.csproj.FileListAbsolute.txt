@@ -1,0 +1,17 @@
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\bin\Debug\net8.0\FutebolManager.Infrastructure.deps.json
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\bin\Debug\net8.0\FutebolManager.Infrastructure.runtimeconfig.json
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\bin\Debug\net8.0\FutebolManager.Infrastructure.dll
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\bin\Debug\net8.0\FutebolManager.Infrastructure.pdb
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\bin\Debug\net8.0\FutebolManager.Core.dll
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\bin\Debug\net8.0\FutebolManager.Core.pdb
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.AssemblyInfo.cs
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolM.B1E5908A.Up2Date
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.dll
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\refint\FutebolManager.Infrastructure.dll
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.pdb
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\FutebolManager.Infrastructure.genruntimeconfig.cache
+C:\Users\flavio.henrique\Documents\Vsoft Estudos\Clean Arquiteture\FutebolManager\FutebolManager.Infrastructure\obj\Debug\net8.0\ref\FutebolManager.Infrastructure.dll

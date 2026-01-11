@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB1579F-850D-4128-BB81-0EE20032A946}|FutebolManager.Application\\FutebolManager.Application.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB1579F-850D-4128-BB81-0EE20032A946}|FutebolManager.Application\\FutebolManager.Application.csproj|solutionrelative:futebolmanager.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\controllers\\timescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\controllers\\timescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6C60FE-040F-4A44-A05A-161EA6DA0F1E}|FutebolManager.Core\\FutebolManager.Core.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.core\\model\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6C60FE-040F-4A44-A05A-161EA6DA0F1E}|FutebolManager.Core\\FutebolManager.Core.csproj|solutionrelative:futebolmanager.core\\model\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.infrastructure\\data\\repositories\\timerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|solutionrelative:futebolmanager.infrastructure\\data\\repositories\\timerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|solutionrelative:futebolmanager.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.infrastructure\\migrations\\20260110115350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|solutionrelative:futebolmanager.infrastructure\\migrations\\20260110115350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6C60FE-040F-4A44-A05A-161EA6DA0F1E}|FutebolManager.Core\\FutebolManager.Core.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.core\\interfaces\\itimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6C60FE-040F-4A44-A05A-161EA6DA0F1E}|FutebolManager.Core\\FutebolManager.Core.csproj|solutionrelative:futebolmanager.core\\interfaces\\itimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|solutionrelative:futebolmanager.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "FutebolManager.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Application\\Class1.cs",
+              "RelativeToolTip": "FutebolManager.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:11:18.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FutebolManager.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FutebolManager.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:30:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimesController.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Controllers\\TimesController.cs",
+              "RelativeDocumentMoniker": "FutebolManager.API\\Controllers\\TimesController.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Controllers\\TimesController.cs",
+              "RelativeToolTip": "FutebolManager.API\\Controllers\\TimesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:58:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FutebolManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FutebolManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:55:22.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260110115350_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Migrations\\20260110115350_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FutebolManager.Infrastructure\\Migrations\\20260110115350_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Migrations\\20260110115350_InitialCreate.cs",
+              "RelativeToolTip": "FutebolManager.Infrastructure\\Migrations\\20260110115350_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:53:51.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "FutebolManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Program.cs",
+              "RelativeToolTip": "FutebolManager.API\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T21:37:55.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FutebolManager.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\appsettings.json",
+              "RelativeToolTip": "FutebolManager.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T21:36:52.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Data\\Repositories\\TimeRepository.cs",
+              "RelativeDocumentMoniker": "FutebolManager.Infrastructure\\Data\\Repositories\\TimeRepository.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Data\\Repositories\\TimeRepository.cs",
+              "RelativeToolTip": "FutebolManager.Infrastructure\\Data\\Repositories\\TimeRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T21:24:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FutebolManager.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FutebolManager.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T21:23:08.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Core\\Interfaces\\ITimeRepository.cs",
+              "RelativeDocumentMoniker": "FutebolManager.Core\\Interfaces\\ITimeRepository.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Core\\Interfaces\\ITimeRepository.cs",
+              "RelativeToolTip": "FutebolManager.Core\\Interfaces\\ITimeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T21:21:36.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Core\\Model\\Time.cs",
+              "RelativeDocumentMoniker": "FutebolManager.Core\\Model\\Time.cs",
+              "ToolTip": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Core\\Model\\Time.cs",
+              "RelativeToolTip": "FutebolManager.Core\\Model\\Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T21:16:34.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

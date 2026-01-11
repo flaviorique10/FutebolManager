@@ -1,0 +1,6 @@
+@FutebolManager.API_HostAddress = http://localhost:5210
+
+GET {{FutebolManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

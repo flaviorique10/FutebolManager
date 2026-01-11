@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FutebolManager.Application/1.0.0": {
+        "dependencies": {
+          "FutebolManager.Core": "1.0.0"
+        },
+        "runtime": {
+          "FutebolManager.Application.dll": {}
+        }
+      },
+      "FutebolManager.Core/1.0.0": {
+        "runtime": {
+          "FutebolManager.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FutebolManager.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FutebolManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
