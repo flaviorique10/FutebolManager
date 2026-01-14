@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FFB24CB5-7C0D-4CB0-85F7-175387287E23}|FutebolManager.API\\FutebolManager.API.csproj|solutionrelative:futebolmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2147E2D8-705F-46CB-BC6C-B68B3C318895}|FutebolManager.Infrastructure\\FutebolManager.Infrastructure.csproj|c:\\users\\flavio.henrique\\documents\\vsoft estudos\\clean arquiteture\\futebolmanager\\futebolmanager.infrastructure\\data\\repositories\\timerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Application\\Class1.cs",
               "RelativeDocumentMoniker": "FutebolManager.Application\\Class1.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "FutebolManager.API\\Controllers\\AuthController.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TimesController.cs",
               "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Controllers\\TimesController.cs",
               "RelativeDocumentMoniker": "FutebolManager.API\\Controllers\\TimesController.cs",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\Program.cs",
               "RelativeDocumentMoniker": "FutebolManager.API\\Program.cs",
@@ -151,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.API\\appsettings.json",
               "RelativeDocumentMoniker": "FutebolManager.API\\appsettings.json",
@@ -159,7 +159,8 @@
               "RelativeToolTip": "FutebolManager.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-09T21:36:52.536Z"
+              "WhenOpened": "2026-01-09T21:36:52.536Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -199,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Time.cs",
               "DocumentMoniker": "C:\\Users\\flavio.henrique\\Documents\\Vsoft Estudos\\Clean Arquiteture\\FutebolManager\\FutebolManager.Core\\Model\\Time.cs",
               "RelativeDocumentMoniker": "FutebolManager.Core\\Model\\Time.cs",
