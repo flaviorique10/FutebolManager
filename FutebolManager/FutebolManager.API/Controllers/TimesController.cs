@@ -1,11 +1,9 @@
 ﻿using FutebolManager.Core.Interfaces;
 using FutebolManager.Core.Model;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FutebolManager.API.Controllers
-{
-    [Authorize]
+{    
     [ApiController]
     [Route("api/[controller]")]
     public class TimesController : ControllerBase
@@ -18,7 +16,7 @@ namespace FutebolManager.API.Controllers
         }
 
         // GET: api/Times        
-        [HttpGet]
+        [HttpGet]        
         public async Task<IActionResult> GetAll()
         {
             var times = await _repository.GetAllAsync(); 
